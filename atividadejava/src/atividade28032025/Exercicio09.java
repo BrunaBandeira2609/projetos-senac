@@ -13,5 +13,7 @@ public class Exercicio09 {
 
         //Exibindo o resultado 
         System.out.println("A terça parte do número é:" + terço);
+        scanner.close();
+        
     }
 }

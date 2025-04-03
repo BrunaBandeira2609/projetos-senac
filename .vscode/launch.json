@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio01",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio02",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio03",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio04",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio04",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio05",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio05",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio06",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio06",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio111",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio111",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio112",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio112",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio113",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio113",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio114",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio114",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio115",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio115",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio116",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio116",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio118",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio118",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio119",
+            "request": "launch",
+            "mainClass": "atividade21032025.Exercicio119",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "exercicio117",
+            "request": "launch",
+            "mainClass": "atividade21032025.exercicio117",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01(1)",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio01",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio02(1)",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio02",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio03(1)",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio03",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio04(1)",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio04",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio05(1)",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio05",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio06(1)",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio06",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio07",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio07",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio08",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio08",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio09",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio09",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio10",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio10",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio11",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio11",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1110",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio1110",
+            "projectName": "projetos-senac_62be2906"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio12",
+            "request": "launch",
+            "mainClass": "atividade28032025.Exercicio12",
+            "projectName": "projetos-senac_62be2906"
+        }
+    ]
+}
